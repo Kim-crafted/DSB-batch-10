@@ -9,7 +9,7 @@ My data science and analytics projects
 4. Looker GA Dashboard
 5. Linear Regression Model using caret
 
-   ## Contact Me
+## Contact Me
 
 ## Image
 ![Minimal Home Decoration](https://www.minimalandmodern.com/cdn/shop/articles/minimalist-home-design.jpg?v=1697704308)
